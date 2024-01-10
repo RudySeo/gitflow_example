@@ -17,7 +17,7 @@
 <p align="center">
 GIF Images
 </p>
-
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704861836695?alt=media&token=ae06635f-ddd7-4c91-b926-a4987ac891f7)](https://github.com/msdio/stackticon)
 <br>
 
 ## 기술 스택
