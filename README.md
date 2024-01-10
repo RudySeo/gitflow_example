@@ -17,14 +17,14 @@
 <p align="center">
 GIF Images
 </p>
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704861836695?alt=media&token=ae06635f-ddd7-4c91-b926-a4987ac891f7)](https://github.com/msdio/stackticon)
+
 <br>
 
 ## 기술 스택
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704861753715?alt=media&token=68c20708-b71c-4019-af47-93bb78c26e3c)](https://github.com/msdio/stackticon)
 
-
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704861836695?alt=media&token=ae06635f-ddd7-4c91-b926-a4987ac891f7)](https://github.com/msdio/stackticon)
 
 
 <br>
