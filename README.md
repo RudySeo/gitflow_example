@@ -34,7 +34,7 @@
 <br>
 
 # 5. :video_game: 기술 스택
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704862179653?alt=media&token=41c1168e-05e9-4cd2-8f4c-e68dfda4315c)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704862539534?alt=media&token=11555bd0-8255-480b-9d6d-3f1b67593a94)](https://github.com/msdio/stackticon)
 ---
 <br>
 
