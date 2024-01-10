@@ -38,3 +38,8 @@
 ---
 <br>
 
+# 5. :video_game: 기술 스택
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704862154657?alt=media&token=08fcb352-b431-473e-838d-fd5bacdce164)](https://github.com/msdio/stackticon)
+---
+<br>
+
