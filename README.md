@@ -1,13 +1,7 @@
-# :cocktail: [칵테일픽](https://cocktailpick.com)
-
-<div align="center" style="display:flex;">
-    <img src="./front/public/image/logo/CocktailPick_logo_FullName_white.png" width="450" alt="logo"/>
-</div>
-
-> 좋은 술을, 고민 없이
-
----
+# :musical_note: 중고나라 악기플랫폼
 <br>
+
+
 
 # 1. :grin: 서비스 소개
 * 칵테일 픽은 칵테일 정보 제공, 추천 서비스입니다. "좋은 술을, 고민 없이"라는 모토를 가지고 개발하고 있습니다.
